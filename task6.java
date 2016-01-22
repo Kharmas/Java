@@ -103,6 +103,8 @@ public class task6 {
 
         String date1 = day1+"."+month1+"."+year1;
 
+
+
         System.out.println(date1);
 
 
